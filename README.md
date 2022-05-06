@@ -10,7 +10,7 @@ Two or more publicly accessible iris image databases are to be used to ascertain
     - (v) location of eyelashes and eyelid. 
    
    The matching accuracy using ROC and EER will help to estimate the performance.
-2. You can download and use [PolyU Cross Spectral Iris Database](http://www4.comp.polyu.edu.hk/~csajaykr/polyuiris.htm) or [NICE I (Noisy Iris Challenge
+2. You can also download and use [PolyU Cross Spectral Iris Database](http://www4.comp.polyu.edu.hk/~csajaykr/polyuiris.htm) or [NICE I (Noisy Iris Challenge
 Evaluation Part I )](http://nice1.di.ubi.pt) or choose [IIT Delhi Iris Database](http://www4.comp.polyu.edu.hk/~csajaykr/IITD/Database_Iris.htm).
 ## Guideline for Segmenting and Matching Iris Images in CASIAV3 Database
 1. All the test images should be placed in the folder named casiav3_origin_demo. You can find 200 images in it, and those samples are selected from the left eye images of first 25 subjects in CASIA v3 dataset. If you want to use your own selected images, please rename jpg files in the same manner and put them in this folder.
