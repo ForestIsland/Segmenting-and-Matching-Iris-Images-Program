@@ -2,7 +2,7 @@
 ## Problem Details
 Two or more publicly accessible iris image databases are to be used to ascertain accuracy for the iris recognition using more accurate iris segmentation algorithms. The task is to achieve iris segmentation and investigate the performance improvement:
 
-1. The purposek is to use [CASIA v3 Iris database](http://www.cbsr.ia.ac.cn/english/IrisDatabase.asp) to segment region of interest from iris images. There are two files(segmentation.m, matching.m) which should be run as the guidelines provide in this handout. Visualize the intermediate results to ascertain accuracy of localization with reference to given iris images. You should open the intermediate results folder (Iris_Demo\additional\casiav3\inter) to view :
+1. The purposek is to use [CASIA v3 Iris database](http://www.cbsr.ia.ac.cn/english/IrisDatabase.asp) to segment region of interest from iris images. There are two files(segmentation.m, matching.m) which should be run as the following guidelines. Visualize the intermediate results to ascertain accuracy of localization with reference to given iris images. You should open the intermediate results folder (Iris_Demo\additional\casiav3\inter) to view :
     - (i) location of pupil boundaries, 
     - (ii) location of sclera boundaries, 
     - (iii) location of pupil diameter, 
